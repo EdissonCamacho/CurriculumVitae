@@ -1,0 +1,183 @@
+#principal{
+    margin: 100px;
+   
+    width: auto;
+    height: 550px;
+    display: flex;
+    flex-wrap: nowrap;
+   
+    
+}
+#contact{
+    background-color: white;
+    width: 30%;
+    height: 100%;
+    border-right: solid;
+
+}
+#informacion{
+   
+   
+    font-family: 'Josefin Sans', sans-serif ;
+    width: 70%;
+    height: 100%;
+    
+
+}
+#informacion p, h1{
+    padding-left: 20px;
+    padding-left: 20px;
+    font-size: 25px;
+
+}
+#informacion #info1{
+    padding-left: 20px;
+    padding-left: 20px;
+    font-size: 25px;
+
+}
+#foto{
+    width: 100%;
+    height: 50%;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+
+}
+#image{
+    
+    height: 80%;
+    width: 100%;
+    
+
+}
+#resource{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    margin-left: 30%;
+    margin-top: 5%;
+
+}
+#name{
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#skills{
+    height: 5%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+#skills i{
+    margin-right: 30px;
+    justify-content: center;
+    
+}
+#skills i:hover{
+    width: 50px;
+    height: 50px;
+}
+#nav{
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+    height: 8%;
+    
+   align-items: center;
+   justify-content: center;
+}
+#nav a{
+    margin-right: 15px;
+    text-decoration: none;
+    color: black;
+    
+    font-family: 'Josefin Sans', sans-serif;
+    border-right: solid;
+    padding-right: 5px;
+
+}
+#nav a:hover{
+    color: white;
+    background-color: blue;
+
+}
+#hobies{
+    margin-top: 10px;
+    
+    display: flex;
+    width: 100%;
+    height: 30%;
+    flex-wrap: wrap;
+    justify-content: center;
+ 
+
+}
+#hobies div{
+    margin-right: 20px;
+    margin: 10px;
+    padding-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+
+
+}
+
+.a{
+    background-color: blue;
+    color: white;
+    height: 20px;
+    width: 60px;
+    border-radius: 10px;
+}
+.b{
+    background-color: red;
+    color: white;
+    height: 20px;
+    width: 60px;
+    border-radius: 10px;
+}
+.c{
+    background-color: green;
+    color: white;
+    height: 20px;
+    width: 70px;
+    border-radius: 10px;
+}
+.d{
+    background-color: violet;
+    color: white;
+    height: 20px;
+    width: 80px;
+    border-radius: 10px;
+}
+.e{
+    background-color: black;
+    color: white;
+    height: 20px;
+    width: 100px;
+    border-radius: 10px;
+    
+}
+
+#pr0{
+    height: 50%;
+    width:100%;
+    
+    
+}
+#pr1{
+    height: 50%;
+    width:100%;
+   
+    
+
+}
+
+
